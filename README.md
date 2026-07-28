@@ -17,7 +17,7 @@ A deep-learning-based computer vision application that detects face masks in rea
 
 ## 🛠️ Tech Stack & Dependencies
 
-* **Language:** Python 3.7+
+* **Language:** Python
 * **Deep Learning:** TensorFlow / Keras, MobileNetV2
 * **Computer Vision:** OpenCV (`cv2`), `imutils`
 * **Data Processing:** NumPy, SciPy, `h5py`
