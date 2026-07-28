@@ -23,14 +23,3 @@ A deep-learning-based computer vision application that detects face masks in rea
 * **Data Processing:** NumPy, SciPy, `h5py`
 
 ---
-
-## 📁 Project Structure
-
-```text
-.
-├── face_detector/
-│   ├── deploy.prototxt                    # Caffe model structure file
-│   └── res10_300x300_ssd_iter_140000.caffemodel # Pre-trained Caffe face detector weights
-├── mask_detector.model                    # Trained Keras model for mask detection
-├── detect_mask_video.py                   # Main script to run real-time video stream detection
-└── README.md
